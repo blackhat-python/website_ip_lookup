@@ -1,4 +1,3 @@
-GNU nano 8.0                         main.py
 import socket
 
 def get_ip_address(url):
