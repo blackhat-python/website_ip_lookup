@@ -13,15 +13,15 @@ This tool is made for find IP address of any website using python and the module
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHat-python&show_icons=true&theme=radical" >
 
 ## 💻 Tools 💻
-<a href="https://github.com/blackhat-python/website_ip_lookup"
+<a href="https://github.com/blackhat-python/website_ip_lookup">
 
 #### 👤 My Accounts 👤
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blackhat_python)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blackhat_python1)
 
 [![Instagram](https://img.shields.io/badge/TELEGRAM-GROUP-red?style=for-the-badge&logo=telegram)](https://t.me/HackerX_python)
 
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Blackhat_python)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/PythonBlackhat)
 
 
 
